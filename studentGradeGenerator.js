@@ -11,4 +11,4 @@ if (points < 1) {
     result = 'Points: ' + points;
 }
 
-console.log(result);
+ console.log(result);
