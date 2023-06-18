@@ -22,6 +22,7 @@ h1{
 .btn{
 text-align: center;
 color: azure;
+cursor: pointer;
 border: gold;
 border-radius: 15px;
 margin-top: 30px;
