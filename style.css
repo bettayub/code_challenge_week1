@@ -26,7 +26,7 @@ cursor: pointer;
 border: gold;
 border-radius: 15px;
 margin-top: 30px;
-padding: 5px;
+padding: 10px;
 background-color: red;
 align-items: center;
 
@@ -38,7 +38,7 @@ align-items: center;
     text-align: center;
 
 }
-.studengrade{
+.studentgrade{
     border: 1px  solid white;
     margin: 2px;
     padding: 19px;
@@ -52,8 +52,10 @@ background-size: cover;
     border-radius: 25px;
 }
 #grade_output{
-font-size: medium;
+font-size: 25px;
 color: aqua;
+padding: 60px;
+
 }
 #speedtest{
     border: 1px  solid white;
@@ -71,5 +73,14 @@ background-size: cover;
 }
 #input_test{
     padding:5px;
+
+}
+#result{
+    color: aqua;
+    padding: 60px;
+    font-size: 25px;
+
+
+    
 
 }
