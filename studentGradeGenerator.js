@@ -1,7 +1,7 @@
 // Student Grade Detector
 function mymarks() {
     let marks = parseInt(prompt("Enter your marks between 0 and 100 "));
-    let destination = document.getElementById("grade_output")
+    let destination = document.getElementById("grade_output");
     
     if (marks<0 || marks>100) {
         destination.innerHTML = "Out of Range Entry."
@@ -31,4 +31,4 @@ function mymarks() {
     }
 }
 
-// speed detector section
+
