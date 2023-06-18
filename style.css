@@ -40,6 +40,9 @@ align-items: center;
     border: 1px  solid white;
     margin: 2px;
     padding: 19px;
+    background-image: url(images/grade.png); 
+    background-repeat: no-repeat;
+background-size: cover;
     width: 45%;
     float:left;
     min-height: 40vh;
@@ -54,7 +57,7 @@ color: aqua;
     border: 1px  solid white;
     margin: 2px;
     padding: 19px;
-    width: 45%;
+   width: 45%;
     float:right;
     min-height: 40vh;
     text-align: center;
@@ -62,4 +65,5 @@ color: aqua;
 }
 #input_test{
     padding:5px;
+
 }
