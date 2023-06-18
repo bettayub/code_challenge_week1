@@ -29,8 +29,6 @@ function mymarks() {
     else {
         destination.innerHTML = "Invalid input!"
     }
-
-
-
-
 }
+
+// speed detector section
