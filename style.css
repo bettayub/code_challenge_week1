@@ -4,10 +4,12 @@
 }
 body{
     background-color: darkgrey;
+    height: 50%;
 }
 .toy{
     width: 100%;
     display: flex;
+    gap: 30px;
     height: 350px;
 }
 h1{
@@ -20,7 +22,9 @@ h1{
 text-align: center;
 color: azure;
 border: gold;
-border-radius: 20px;
+border-radius: 15px;
+margin-top: 30px;
+padding: 5px;
 background-color: red;
 align-items: center;
 
@@ -56,4 +60,6 @@ color: aqua;
     text-align: center;
     border-radius: 25px;
 }
+#input_test{
+    padding:5px;
 }
