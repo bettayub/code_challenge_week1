@@ -3,7 +3,7 @@
 ## Author
 ### By Bett Ayub
 
-## Descripti
+## Description
 
 This is a Javascript code solution
 
