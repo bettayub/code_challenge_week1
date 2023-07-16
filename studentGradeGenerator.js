@@ -1,4 +1,5 @@
-let marks = 70;
+let marks =100;
+let myRemarks = "well done";
 let result;
 
 if (marks < 0 || marks > 100) {
@@ -18,3 +19,4 @@ if (marks < 0 || marks > 100) {
 }
 
 console.log(result);
+console.log(typeof  myRemarks);  // Output: "number"
